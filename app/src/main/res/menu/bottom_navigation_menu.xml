@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/food_menu"
+        android:title="@string/browse"
+        android:icon="@drawable/browse">
+
+    </item>
+
+    <item android:id="@+id/cart"
+        android:title="@string/cart"
+        android:icon="@drawable/cart">
+
+    </item>
+
+    <item android:id="@+id/meet"
+        android:title="@string/meet"
+        android:icon="@drawable/calendar">
+
+    </item>
+
+
+</menu>

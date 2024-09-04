@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">food app</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="login">Login</string>
+    <string name="Dont">Don\'t have an account?</string>
+    <string name="signUp">Sign Up</string>
+    <string name="browse">Brows</string>
+    <string name="cart">My Cart</string>
+    <string name="meet">Meet Plans</string>
+    <string name="name">Name</string>
+    <string name="pass">Password</string>
+    <string name="check">Remember me</string>
+    <string name="forget">Forget Password?</string>
+</resources>
